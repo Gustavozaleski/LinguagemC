@@ -17,20 +17,20 @@ void main () {
     switch (operador) {
         case 43:
             resultadodaoperacao = primeirovalordigitadopelousuario+segundovalordigitadopelousuario;
-            printf("O resultado da operaÁ„o de soma È %i", resultadodaoperacao);
+            printf("O resultado da opera√ß√£o de soma √© %i", resultadodaoperacao);
             break;
         case 45:
             resultadodaoperacao = primeirovalordigitadopelousuario - segundovalordigitadopelousuario;
-            printf("O resultado da operaÁ„o de subtraÁ„o È %i", resultadodaoperacao);
+            printf("O resultado da opera√ß√£o de subtra√ß√£o √© %i", resultadodaoperacao);
             break;
         case 42:
             resultadodaoperacao = primeirovalordigitadopelousuario * segundovalordigitadopelousuario;
-            printf("O resultado da operaÁ„o de multiplicaÁ„o È %i", resultadodaoperacao);
+            printf("O resultado da opera√ß√£o de multiplica√ß√£o √© %i", resultadodaoperacao);
             break;
 
         case 47:
             resultadodaoperacao = (primeirovalordigitadopelousuario / segundovalordigitadopelousuario);
-            printf("O resultado da operaÁ„o de divis„o È %i", resultadodaoperacao);
+            printf("O resultado da opera√ß√£o de divis√£o √© %i", resultadodaoperacao);
             break;
 
         default:
